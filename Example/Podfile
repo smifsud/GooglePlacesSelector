@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GooglePlacesSelector_Example' do
+  pod 'GooglePlacesSelector', :path => '../'
+
+  target 'GooglePlacesSelector_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

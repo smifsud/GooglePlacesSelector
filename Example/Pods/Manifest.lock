@@ -1,0 +1,16 @@
+PODS:
+  - GooglePlacesSelector (0.1.0)
+
+DEPENDENCIES:
+  - GooglePlacesSelector (from `../`)
+
+EXTERNAL SOURCES:
+  GooglePlacesSelector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GooglePlacesSelector: a57918df415fce0848628cb4c80308d96d2acda4
+
+PODFILE CHECKSUM: 9675c6f8112866868e944434020ec4ac1b4e105b
+
+COCOAPODS: 1.1.1

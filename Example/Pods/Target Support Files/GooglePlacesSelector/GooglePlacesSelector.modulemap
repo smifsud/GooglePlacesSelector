@@ -1,0 +1,6 @@
+framework module GooglePlacesSelector {
+  umbrella header "GooglePlacesSelector-umbrella.h"
+
+  export *
+  module * { export * }
+}
